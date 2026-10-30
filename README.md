@@ -1,16 +1,20 @@
 # Smart Calculator 🧮
 
-A responsive calculator built with HTML, CSS, and JavaScript. It provides a clean interface for performing everyday calculations, with keyboard support, calculation history, and light and dark themes.
+A responsive web-based calculator built to perform everyday mathematical calculations with a clean interface, keyboard support, calculation history, and customizable themes.
+
+## 🌐 Live Demo
+
+https://sachinsrawat.github.io/smart-calculator/
 
 ## ✨ Features
 
-- **Basic Arithmetic:** Perform addition, subtraction, multiplication, and division.
-- **Percentage Calculations:** Calculate percentages quickly.
-- **Keyboard Support:** Enter calculations using your keyboard.
-- **Calculation History:** Review previous calculations.
-- **Light and Dark Themes:** Switch between themes.
-- **Responsive Design:** Use the calculator on desktop and mobile screens.
-- **Local Storage:** Save calculation history and theme preferences in the browser.
+- Perform basic arithmetic operations, including addition, subtraction, multiplication, and division.
+- Calculate percentages.
+- Enter calculations using keyboard input.
+- View previous calculations through calculation history.
+- Switch between light and dark themes.
+- Save calculation history and theme preferences using browser Local Storage.
+- Use a responsive interface designed for desktop and mobile screens.
 
 ## 🛠️ Technologies Used
 
@@ -18,16 +22,14 @@ A responsive calculator built with HTML, CSS, and JavaScript. It provides a clea
 - CSS3
 - JavaScript
 - Browser Local Storage
+- GitHub Pages
 
-## 🚀 Live Demo
+## 🚀 How to Run Locally
 
-[Open Smart Calculator](YOUR-LIVE-WEBSITE-LINK)
-
-## 💻 Run Locally
-
-1. Download or clone this repository.
+1. Clone this repository or download the project files.
 2. Open the project folder.
 3. Open `index.html` in your web browser.
+4. Start performing calculations.
 
 ## 📁 Project Structure
 
@@ -39,12 +41,6 @@ smart-calculator/
 └── README.md
 ```
 
-## 🎯 Purpose
+## 🎯 Project Purpose
 
-This project was created to practise front-end development, JavaScript logic, DOM manipulation, event handling, and browser-based data storage.
-
-## 👨‍💻 Author
-
-**Sachin Singh Rawat**
-
-GitHub: [View my GitHub profile](YOUR-GITHUB-PROFILE-LINK)
+This project was developed to practise front-end development concepts, including JavaScript logic, DOM manipulation, event handling, responsive web design, and browser-based data persistence.
